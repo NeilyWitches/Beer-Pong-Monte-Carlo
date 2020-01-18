@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Design}{4}
+\contentsline {subsection}{\numberline {2.1}Simulation}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}Differences and similarities between real-life games and simulated games}{4}
+\contentsline {subsubsection}{\numberline {2.1.2}Mechanics of simulated games}{6}
+\contentsline {subsection}{\numberline {2.2}Software}{11}
+\contentsline {subsubsection}{\numberline {2.2.1}Libraries}{11}
+\contentsline {subsubsection}{\numberline {2.2.2}Setting up a game}{11}
+\contentsline {subsubsection}{\numberline {2.2.3}Playing 1 game}{13}
+\contentsline {subsubsection}{\numberline {2.2.4}Throwing the ball}{16}
+\contentsline {subsubsection}{\numberline {2.2.5}Playing 1 set of many games}{19}
+\contentsline {subsubsection}{\numberline {2.2.6}Playing many sets of many games}{25}
+\contentsline {subsubsection}{\numberline {2.2.7}$\lambda (t)$}{26}
+\contentsline {subsubsection}{\numberline {2.2.8}Linear regression}{28}
+\contentsline {subsubsection}{\numberline {2.2.9}$P(P_t = n)$}{29}
+\contentsline {section}{\numberline {3}Results}{29}
+\contentsline {subsection}{\numberline {3.1}Significance of going first}{29}
+\contentsline {subsection}{\numberline {3.2}Differences in final scores}{33}
+\contentsline {subsection}{\numberline {3.3}Types of shots}{33}
+\contentsline {subsection}{\numberline {3.4}Types of games}{34}
+\contentsline {subsubsection}{\numberline {3.4.1}Types of Games I: Chokes, landslide victories, and neck and neck matches}{34}
+\contentsline {subsubsection}{\numberline {3.4.2}Types of Games II: surprises, no surprises, and others.}{35}
+\contentsline {subsection}{\numberline {3.5}$P_t$}{36}
+\contentsline {section}{\numberline {4}Conclusion}{39}
+\contentsline {subsection}{\numberline {4.1}General remarks}{39}
+\contentsline {subsection}{\numberline {4.2}Suggestions for further research}{41}

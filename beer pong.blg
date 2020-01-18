@@ -1,0 +1,11 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: beer pong.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+I was expecting a `,' or a `}'---line 11 of file references.bib
+ :  
+ :  pages = {108-109}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "geeks4geeeks" isn't style-file defined
+--line 14 of file references.bib
+(There was 1 error message)
